@@ -44,7 +44,7 @@ Bonus-Aufgabe:
 Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2017/blob/master/HelloCloud.js) NodeJs-Anwendung in Microsoft Azure in Form von Platform as a Service auszuführen. Um diese Aufgabe zu bewerkstelligen, führen Sie folgende Teilaufgaben aus:    
 
 1. Erstellen Sie ein neues, öffentlich erreichbares Github Quell-Code-Repository bei [github.com](https://github.com/)  
-2. Sorgen Sie dafür, dass Sie die eine Server.js mit dem Quellcode im Repository haben.  
+2. Sorgen Sie dafür, dass Sie die eine [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2017/blob/master/HelloCloud.js) mit dem Quellcode im Repository haben.  
 3. Zusätzlich benötigen Sie die Konfigurationsdateien [package.json](https://github.com/rherlt/HTW-Berlin-CloudComputing-2017/blob/master/package.json) und [process.json](https://github.com/rherlt/HTW-Berlin-CloudComputing-2017/blob/master/process.json) in Ihrem Repository, damit der Webserver in der Lage ist die eingehenden HTTP-Requests an die Node.js-Anwendung weiterzuleiten.
 4. Verknüpfen Sie Ihr Github-Repository mit Ihrem Azure App Service und richten Sie [Continuous Delivery](https://de.wikipedia.org/wiki/Continuous_Delivery) ein.
 5. Sorgen Sie dafür, dass Sie die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2017/blob/master/HelloCloud.js)-Anwendung erfolgreich ausführen können. (Hinweis: Listening-Port des Servers) 
